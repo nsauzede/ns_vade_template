@@ -8,6 +8,8 @@ This is a template to boostrap a new [vade](https://github.com/nsauzede/ns_vade)
 - [ ] vade .gitignore to silence files produced by vade
 - [ ] automated vade github CI
 
+NOTE: _don't forget to edit the `Workflow{Badge|Url}` links at the end of this README.md to point to your actual project!!._
+
 # How to test
 
 ## Prerequisites
