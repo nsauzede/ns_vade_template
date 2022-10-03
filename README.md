@@ -3,7 +3,7 @@
 
 ⚙️ Vade project template
 
-This is a template to boostrap a new vade project, including the following initial useful features:
+This is a template to boostrap a new [vade](https://github.com/nsauzede/ns_vade) project, including the following initial useful features:
 - [ ] README.md containing vade information/instructions
 - [ ] vade .gitignore to silence files produced by vade
 - [ ] automated vade github CI
