@@ -26,8 +26,7 @@ Then one can tinker with `vade/src/coolpkg` sources (see vade documentation).
 ## Build and test project packages
 ```
 $ vade clean test
-    RM  vade/pkg
-    RM  vade/bin
+    RM  vade/target
     CC  coolpkg.o
     AR  coolpkg.a
     AR  libcoolpkg.a
