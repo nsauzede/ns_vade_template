@@ -46,5 +46,5 @@ $ vade clean test
 ```
 
 
-[WorkflowBadge]: https://github.com/nsauzede/ns_vade_template/workflows/vade/badge.svg
+[WorkflowBadge]: https://github.com/nsauzede/ns_vade_template/actions/workflows/vade.yml/badge.svg
 [WorkflowUrl]: https://github.com/nsauzede/ns_vade_template/commits/main
